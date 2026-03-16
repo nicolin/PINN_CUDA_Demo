@@ -1,3 +1,4 @@
+# Nicolin Govender, n.govender@ucl.ac.uk 
 import warp as wp
 import numpy as np
 import matplotlib
